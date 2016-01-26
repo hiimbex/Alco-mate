@@ -6,6 +6,6 @@ You can read more about our process here:
 
 #You can also contact all the creators here:
 #hiimbex: Bex Warner, American University freshman, Computer Science major, Art Studio minor, rw1048a@student.american.edu
-#danishd: Danish Dhamani, Drexel University junior, Mechanical Engineering
+#danishd: Danish Dhamani, Drexel University junior, Mechanical Engineering, danishd@me.com
 #adamdom: Adam Domingoes, University of Pennsylvania freshman, adamdom@wharton.upenn.edu
 #Mihir Shah: University of Pennsylvania Graduate student, Electrical Engineering, mihirmshah8@gmail.com 
