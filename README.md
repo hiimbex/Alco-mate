@@ -1,6 +1,9 @@
 # Alco-mate
 #Hi all! We are team Alco-Mate! 
 We made this project over 48 hours, during the PennApps 2016 Winter hackathon. 
+The Devpost team also selected us as a staff pick!
+Here more about that in their video here (our team starts speaking around 5:40):
+https://youtu.be/5L-HOb0tlaE 
 You can read more about our process here: 
 #http://devpost.com/software/alco-mate
 
