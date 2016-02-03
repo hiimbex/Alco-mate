@@ -6,6 +6,8 @@ Here more about that in their video here (our team starts speaking around 5:40):
 https://youtu.be/5L-HOb0tlaE 
 You can read more about our process here: 
 #http://devpost.com/software/alco-mate
+You can also find more of our web dev code here:
+#https://github.com/adamdom/alco-mate
 
 #You can also contact all the creators here:
 #hiimbex: Bex Warner, American University freshman, Computer Science major, Art Studio minor, rw1048a@student.american.edu
